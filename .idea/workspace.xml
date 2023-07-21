@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1465b358-31a4-4b72-a56c-17275e5fe471" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/SubCategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/EcommerceApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/EcommerceApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/UserOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/controller/UserOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/AllOrderDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/AllOrderDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/CartItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/CartItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/OrderDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/OrderDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/dto/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/CartDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/CartDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/OrderDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/OrderDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/UserOrderCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/entity/UserOrderCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/CartDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/CartDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/CartDetailDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/CartDetailDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/UserOrderCommonDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/repository/UserOrderCommonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/UserOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/UserOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/java/com/workflow2/ecommerce/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/CartControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/CartControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/CategoryControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/CategoryControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/LoginControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/LoginControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/SearchControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/controller/SearchControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/repository/CategoryDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/repository/CategoryDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/services/CartServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/services/CartServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/services/CategoryServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/src/test/java/com/workflow2/ecommerce/services/CategoryServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/ecommerce-api" value="4b811f3049a9aecf76f1e17027a437f4fa5236c9" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce-api" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2S60qP9mzJdARUvUbU1DLram7Ir" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RESTKit.sync.cert.Ide&quot;: &quot;true&quot;,
+    &quot;RESTKit.sync.env.Ide&quot;: &quot;true&quot;,
+    &quot;RESTKit.sync.requestConfig.Ide&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;SwaggerUI__implement&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SubCategory - Backend&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="EcommerceApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.workflow2.ecommerce.EcommerceApiApplication" />
+      <module name="ecommerce_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.workflow2.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EcommerceApiApplication" />
+        <item itemvalue="Application.EcommerceApiApplication" />
+        <item itemvalue="Application.EcommerceApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1465b358-31a4-4b72-a56c-17275e5fe471" name="Changes" comment="" />
+      <created>1688451914214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688451914214</updated>
+    </task>
+    <servers />
+  </component>
+</project>
